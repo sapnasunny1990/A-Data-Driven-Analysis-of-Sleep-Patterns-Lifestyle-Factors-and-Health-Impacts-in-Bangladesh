@@ -98,14 +98,14 @@ The project includes:
 ---
 💡 Recommendations
 ---
-Reduce screen time before bedtime
-Maintain consistent sleep schedules
-Manage stress through healthy routines
-Promote awareness about sleep health
+- Reduce screen time before bedtime
+- Maintain consistent sleep schedules
+- Manage stress through healthy routines
+- Promote awareness about sleep health
 
 ---
-📌 Future Work
+🚀 Future Work
 ---
-Build a predictive model for sleep quality
-Develop an interactive dashboard
-Include more demographic and behavioral variables
+- Build a predictive model for sleep quality
+- Develop an interactive dashboard
+- Include more demographic and behavioral variables
